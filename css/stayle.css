@@ -1,0 +1,8 @@
+.swiper {
+    width: 80%;
+    height: 250px;
+}
+
+.swiper-slide img {
+    width: 100%;
+}
